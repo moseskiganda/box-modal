@@ -1,0 +1,19 @@
+img{width: 250px; height: 150px;}
+header{float: right;padding: 10px;margin: 10px;font-size: 13px;}
+form{width: 100px; margin-left: auto;margin-right: auto;height: 150px;
+padding: 250px; border-radius: 40%;margin-bottom: 20px;
+margin-top: 10px;}
+img{width: 250px;
+position: absolute;left: 50%;margin-left: -50px;margin-bottom: 2px;margin-top: 10px;
+}
+img{width: 250px;
+position: absolute;left: 50%;margin-left: -50px;
+margin-bottom: 2px;margin-top: 50px;}
+button{text-align: center;}
+footer{background-color: aliceblue;font-size: 13px;}
+div,moses{text-align: right;}
+input{padding: 15px; border-radius: 20px;margin: 8px;width: 500px;
+margin-left: -100px;border-color: lightgrey;}
+button{padding: 2px;margin-bottom:5px;width: 150px;}
+a{text-decoration: none;}
+p{text-align: center;margin: 100px;margin-top: -150px;margin-bottom: 200px;}
